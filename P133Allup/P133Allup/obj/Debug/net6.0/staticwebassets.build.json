@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VZq1JOzUGm5ND2gJkS63agZ3tDlcchKzl6F45t1Qit8=",
+  "Hash": "ishwvXOnW61MoknKMNN5b+yp+VUe3mGYsFBIRwrhXOo=",
   "Source": "P133Allup",
   "BasePath": "_content/P133Allup",
   "Mode": "Default",
@@ -2378,6 +2378,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\special-products\\special-products-8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\BackEnd\\Projects\\P133Allup\\P133Allup\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "P133Allup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\BackEnd\\Projects\\P133Allup\\P133Allup\\wwwroot\\",
+      "BasePath": "_content/P133Allup",
+      "RelativePath": "assets/js/custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\BackEnd\\Projects\\P133Allup\\P133Allup\\wwwroot\\assets\\js\\main.js",

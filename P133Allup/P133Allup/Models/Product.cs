@@ -33,6 +33,6 @@ namespace P133Allup.Models
         public Category Category { get; set; }
         public int BrandId { get; set; }
         public Brand Brand { get; set; }
-        public bool IsArrival { get; internal set; }
+     
     }
 }
