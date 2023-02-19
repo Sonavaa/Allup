@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using P133Allup.DataAccessLayer;
 using P133Allup.ViewModels.HomeViewModels;
+using System.Text;
 
 namespace P133Allup.Controllers
 {

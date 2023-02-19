@@ -1,4 +1,13 @@
-﻿<!doctype html>
+﻿@inject ILayoutService layoutservice
+@{
+    IDictionary<string,string> settings = await layoutservice.GetSettings();
+    IEnumerable<Category> categories = await layoutservice.GetCategories();
+    IEnumerable<BasketVM> basketVMs = await layoutservice.GetBaskets();
+}
+
+
+
+<!doctype html>
 <html class="no-js" lang="en">
 
 
